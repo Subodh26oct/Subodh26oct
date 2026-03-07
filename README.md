@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Subodh Kumar
 
 <div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subodh26oct&label=Profile%20views&color=0e75b6&style=flat" alt="Subodh26oct" /> </p>
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Pre+Final+Year+ECE+Student+%40+IIIT+Ranchi+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;Building+Digital+Solutions%2C+One+Commit+at+a+Time+%E2%9C%A8;Top+%25+on+LeetCode+%7C+500%2B+Problems+Solved%F0%9F%94%A5;Waiting+Intern)](https://git.io/typing-svg)
 
