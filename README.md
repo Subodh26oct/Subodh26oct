@@ -30,7 +30,7 @@
 I’m Subodh Kumar, a pre-final-year Electronics and Communication Engineering student at IIIT Ranchi, currently maintaining an 8.19 CGPA and actively building expertise in modern development tools.
 
 ## 🚀 My Journey
-As a dedicated full-stack developer and competitive programmer, I've solved 500+ problems across various coding platforms, achieving a top 40% global ranking on LeetCode. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
+As a dedicated full-stack developer, MERN Stack and Spring Boot with DevOps, I've solved 500+ problems across various coding platforms. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
 
 ## 💻 What I Do
 <!-- - 🏦 Professional Work: Contributing to at ***, working with modern web technologies -->
@@ -88,7 +88,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 500+
 
 </div>
 
-<table>
+<!-- <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/LeetCode-300%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -100,7 +100,7 @@ As a dedicated full-stack developer and competitive programmer, I've solved 500+
 <br><strong>Rank Achieved</strong>
 <br><sub>Consistent Performer</sub>
 </td> -->
-<td align="center" width="25%">
+<!-- <td align="center" width="25%">
 <img src="https://img.shields.io/badge/CodeChef-_3Star-yellow?style=for-the-badge&logo=codechef&logoColor=white"/>
 <br><strong>Rating Level</strong>
 <br><sub>Active Competitor</sub>
@@ -111,18 +111,18 @@ As a dedicated full-stack developer and competitive programmer, I've solved 500+
 <br><sub>Regular Contributor</sub>
 </td>
 </tr>
-</table>
+</table> -->
 
-<div align="center">
+<div align="center"> 
 
-### 🔗 Coding Profiles
+<!-- ### 🔗 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ffreak261003/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ffreak2040)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ffreak2040)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/subodh261u9dq)
 
-</div>
+</div> -->
 
 
 ## 🛠️ Tech Stack & Tools
