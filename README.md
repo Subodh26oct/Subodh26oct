@@ -24,6 +24,10 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Subodh26oct&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats-peach-pi.vercel.app/api?username=Subodh26oct&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=45,2b8eaf,b222a8&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=000000)
+
 </div>
 
 ## 👋 Who Am I?
