@@ -201,7 +201,7 @@ const subodh = {
 <td width="50%" valign="top">
 
 ### ⚡ Vibe Code Editor
-**`May 2026`** &nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/vibe-code-editor)
+&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/vibe-code-editor)
 
 > AI-powered Web IDE with real-time execution, AI chat & GitHub import
 
@@ -222,7 +222,7 @@ const subodh = {
 <td width="50%" valign="top">
 
 ### 🔮 Coming Soon...
-**`2026`** &nbsp; 🚧 In Progress
+&nbsp; 🚧 In Progress
 
 > Spring Boot Microservices + AI SaaS
 
