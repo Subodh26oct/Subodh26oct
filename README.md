@@ -1,176 +1,249 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there! I'm Subodh Kumar
-
-<div align="center">
+<!-- SOCIAL BADGES -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subodh26oct&label=Profile%20views&color=0e75b6&style=flat" alt="Subodh26oct" /> </p>
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Pre+Final+Year+ECE+Student+%40+IIIT+Ranchi+%F0%9F%93%9A;Full-Stack+Developer+%26+Problem+Solver+%F0%9F%92%BB;Building+Digital+Solutions%2C+One+Commit+at+a+Time+%E2%9C%A8;)](https://git.io/typing-svg)
+<div align="center">
 
-<!-- Top+%25+on+LeetCode+%7C+500%2B+Problems+Solved%F0%9F%94%A5;Waiting+Intern -->
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Subodh%20Kumar&fontSize=48&fontColor=58a6ff&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+
+
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Final+Year+%40+IIIT+Ranchi+%7C+Full+Stack+Developer;Java+%2B+Spring+Boot+%7C+AI+Engineer+%7C+SaaS+Builder;4+Production+Platforms+%7C+50%2B+Users+%7C+Open+to+SDE" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+
+<!-- <a href="https://github.com/Subodh26oct"><img src="https://img.shields.io/badge/GitHub-Subodh26oct-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/subodhln"><img src="https://img.shields.io/badge/LinkedIn-subodhln-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://subodh-hp-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://instagram.com/subodhln"><img src="https://img.shields.io/badge/Instagram-subodhln-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<br/> -->
+
 
 </div>
 
+---
+
+<!-- SYSTEM STATUS HUD -->
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>📡 STATUS</b></td>
+<td align="center"><b>🎓 EDUCATION</b></td>
+<td align="center"><b>📍 LOCATION</b></td>
+<td align="center"><b>🎯 FOCUS</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Open_to_SDE_Roles-00C853?style=flat-square&logo=statuspage&logoColor=white"/></td>
+<td align="center">IIIT Ranchi • ECE • Final Year • 8.19 CGPA</td>
+<td align="center">Ranchi, Jharkhand 🇮🇳</td>
+<td align="center">Full Stack + AI Engineering</td>
+</tr>
+</table>
+</div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Subodh26oct&theme=tokyonight&hide_border=true"  width="60%"/>
+<a href="https://github.com/Subodh26oct">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subodh26oct&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/Subodh26oct">
+  <img width="49%" src="https://streak-stats.demolab.com?user=Subodh26oct&theme=github-dark-blue&border=30363d&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+</a>
 
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Subodh26oct&theme=tokyo-night&hide_border=true" width="100%"/>
+<a href="https://github.com/Subodh26oct">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subodh26oct&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=10" />
+</a>
 
+<br/>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Subodh26oct&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats-peach-pi.vercel.app/api?username=Subodh26oct&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=45,2b8eaf,b222a8&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=000000)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subodh26oct&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
-## 👋 Who Am I?
-I’m Subodh Kumar, a pre-final-year Electronics and Communication Engineering student at IIIT Ranchi, currently maintaining an 8.19 CGPA and actively building expertise in modern development tools.
-
-## 🚀 My Journey
-As a dedicated full-stack developer, MERN Stack and Spring Boot with DevOps, I've solved 500+ problems across various coding platforms. My journey in tech is driven by curiosity, continuous learning, and a desire to create meaningful digital solutions.
-
-## 💻 What I Do
-<!-- - 🏦 Professional Work: Contributing to at ***, working with modern web technologies -->
-
-- 🧩 Problem Solving: Active competitive programmer with achievements across LeetCode, Codeforces, CodeChef, and GeeksforGeeks
-
-- 🌐 Development: Building full-stack web applications and exploring cutting-edge technologies
-
-- 📚 Learning: Constantly expanding my knowledge in system design, cloud technologies, and software architecture
+---
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
+```js
+const subodh = {
+    pronouns: "He/Him",
+    role: "Final Year Student & Full-Stack Developer",
+    transitioning_to: [
+        "Java + Spring Boot Backend Engineering",
+        "AI/ML Engineering with LLMs",
+        "Full Stack Developer"
+    ],
+    location: "Ranchi, Jharkhand 🇮🇳",
+    education: {
+        institution: "Indian Institute of Information Technology, Ranchi",
+        degree: "B.Tech in Electronics & Communication Engineering",
+        cgpa: 8.19,
+        batch: "Aug 2023 – May 2027"
+    },
+    metrics: {
+        live_platforms: 4,
+        users_served: "50+",
+        dsa_solved: "500+ (LeetCode + GFG)",
+        gfg_rating: "3-Star Coder (1635)",
+        api_integrations: "5+ (Stripe, Razorpay, Cloudinary, Gemini, Clerk)"
+    },
+    seeking: "SDE / Full Stack Developer / AI Engineer — 2026",
+    fun_fact: "SSB Repeater 5 times — persistence is my superpower 💪"
+};
+```
 
+---
 
-
-## 🎓 Academic Excellence
+## 🚀 Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IIIT_Ranchi-8.19_CGPA-success?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pre_Final_Year-2027-blue?style=for-the-badge&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/ECE-B.Tech-orange?style=for-the-badge&logo=computer&logoColor=white"/>
+### 🗣️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,ts,html,css&theme=dark" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nextjs,react,tailwind&theme=dark" />
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
+</p>
+
+### ☁️ Cloud, DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,linux,git,github,vercel&theme=dark" />
+</p>
+
+### 🤖 AI / ML & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="48"/>
+</p>
+
+### 🧰 Dev Tools & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,jest,vscode&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="48"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/xterm.js-000000?style=for-the-badge&logoColor=white" height="48"/>
+</p>
 
 </div>
 
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏛️ Educational Background
-- 🎓 **Indian Institute of Information Technology, Ranchi**
-- 💻 **Electronics & Communications Engineering**
-- 📊 **CGPA: 8.19/10.0**
-- 📅 **Expected Graduation: 2027**
+### 🎨 MediaForge-AI
+&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/MediaForge-Ai)
+
+> AI-powered SaaS — media generation, restoration, upscaling & transformation
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,prisma&theme=dark&perline=4" />
+</p>
+
+| Metric | Value |
+|:---|:---|
+| ⚡ Speed Insights | **90+** (Vercel SSR) |
+| 🕐 Response Time | **<1.5s** all ops |
+| 🗄️ Media Records | **300+** normalized |
+| 🔒 Security | **100%** RBAC via Clerk |
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 Professional Experience
-<!-- - 🏦 **--** - Software Engineer Intern
-- 💳 Working on fintech solutions and payment systems
-- 🔧 Developing web applications using modern tech stack
-- 📈 Contributing to startup growth and product development
-- 🤝 Collaborating with cross-functional teams -->
+### 📚 SkillVault
+ &nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/SkillVault)
+
+> Production LMS SaaS — AI learning, payments & video streaming
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark&perline=4" />
+</p>
+
+| Metric | Value |
+|:---|:---|
+| 👥 Users | **30+** on Render |
+| 🔐 Auth | JWT + RBAC + Helmet |
+| 💳 Payments | Stripe + Razorpay |
+| 🤖 AI | Gemini 2.5 Flash |
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Vibe Code Editor
+**`May 2026`** &nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/vibe-code-editor)
+
+> AI-powered Web IDE with real-time execution, AI chat & GitHub import
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts&theme=dark&perline=4" />
+</p>
+
+| Feature | Tech |
+|:---|:---|
+| 🧠 AI Assist | Ollama + Local LLMs |
+| 🖊️ Editor | Monaco Editor |
+| ⚙️ Runtime | WebContainers |
+| 💻 Terminal | xterm.js |
+| 🔐 Auth | NextAuth (Google/GitHub) |
+| 🎨 UI | TailwindCSS + ShadCN |
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 Coming Soon...
+**`2026`** &nbsp; 🚧 In Progress
+
+> Spring Boot Microservices + AI SaaS
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,docker,aws&theme=dark&perline=4" />
+</p>
+
+| Focus Area | Stack |
+|:---|:---|
+| ☕ Backend | Spring Boot + Security |
+| 🐳 Containers | Docker Compose |
+| ☁️ Cloud | AWS EC2 + S3 |
+| 🤖 AI Layer | LangChain + Gemini |
 
 </td>
 </tr>
 </table>
 
-## 🏆 Competitive Programming Achievements
-
-<div align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </div>
 
-<!-- <table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/LeetCode-300%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><strong>Rating Achieved</strong>
-<br><sub>Top --% Globally</sub>
-</td>
-<!-- <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<br><strong>Rank Achieved</strong>
-<br><sub>Consistent Performer</sub>
-</td> -->
-<!-- <td align="center" width="25%">
-<img src="https://img.shields.io/badge/CodeChef-_3Star-yellow?style=for-the-badge&logo=codechef&logoColor=white"/>
-<br><strong>Rating Level</strong>
-<br><sub>Active Competitor</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/GeeksforGeeks-3Star-success?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<br><strong>Problem Solver</strong>
-<br><sub>Regular Contributor</sub>
-</td>
-</tr>
-</table> -->
-
-<div align="center"> 
-
-<!-- ### 🔗 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ffreak261003/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ffreak2040)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ffreak2040)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/subodh261u9dq)
-
-</div> -->
-
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,python,java,react,nextjs,nodejs,express,mongodb,postgresql,mysql,gcp,aws,docker,git,vscode,postman,figma,tailwind,redux&theme=dark" />
-
-</div>
-<div height="10%"></div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-<h3>🎨 Frontend</h3>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-</td>
-<td width="33%" align="center">
-<h3>⚙️ Backend</h3>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</td>
-<td width="33%" align="center">
-<h3>🚀 DevOps & Tools</h3>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-
+---
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -186,3 +259,29 @@ As a dedicated full-stack developer, MERN Stack and Spring Boot with DevOps, I'v
 
 </div>
 
+
+---
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+
+<b>⚡ "You can just do things." ⚡</b>
+
+<br/>
+
+<sub>🔥 Built with passion by <b>Subodh Kumar</b> &nbsp;•&nbsp; <a href="https://subodh-hp-portfolio.vercel.app/">subodh-hp-portfolio.vercel.app</a> &nbsp;•&nbsp; Last updated: June 2026</sub>
+
+</div>
+
+---
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+---
