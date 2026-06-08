@@ -76,32 +76,38 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
 
-```js
-const subodh = {
-    pronouns: "He/Him",
-    role: "Final Year Student & Full-Stack Developer",
-    transitioning_to: [
-        "Java + Spring Boot Backend Engineering",
-        "AI/ML Engineering with LLMs",
-        "Full Stack Developer"
-    ],
-    location: "Ranchi, Jharkhand 🇮🇳",
-    education: {
-        institution: "Indian Institute of Information Technology, Ranchi",
-        degree: "B.Tech in Electronics & Communication Engineering",
-        cgpa: 8.19,
-        batch: "Aug 2023 – May 2027"
-    },
-    metrics: {
-        live_platforms: 4,
-        users_served: "50+",
-        dsa_solved: "500+ (LeetCode + GFG)",
-        gfg_rating: "3-Star Coder (1635)",
-        api_integrations: "5+ (Stripe, Razorpay, Cloudinary, Gemini, Clerk)"
-    },
-    seeking: "SDE / Full Stack Developer / AI Engineer — 2026",
-    fun_fact: "SSB Repeater 5 times — persistence is my superpower 💪"
-};
+```java
+public class Subodh extends Developer {
+
+    // Bio & Education
+    String college      = "IIIT Ranchi - ECE (B.Tech, 2023-2027)";
+    String location     = "Ranchi, Jharkhand, India 🇮🇳";
+    float  cgpa         = 8.19f;
+    int    dsaSolved    = 500; // and counting 💪
+
+    // Core Tech Stack
+    String[] coreStack = {
+        "Java + Spring Boot",
+        "MERN Stack (MongoDB, Express, Next.js, React, Node.js)",
+        "PostgreSQL", "Docker", "JWT Auth & Security", "RabbitMQ"
+    };
+
+    // Exploring & Learning
+    String[] currentlyLearning = {
+        "Microservices Architecture",
+        "Kubernetes & Advanced Cloud Deployments",
+        "System Design Patterns",
+        "AI Engineering (LangChain, Gemini API, Ollama)"
+    };
+
+    // Metrics & System Info
+    int    livePlatforms   = 4;
+    String usersServed     = "50+";
+    String gfgRating       = "3-Star Coder (1635)";
+    String apiIntegrations = "Stripe, Razorpay, Cloudinary, Gemini, Clerk";
+    String seeking         = "SDE / Full Stack Developer / AI Engineer — 2026";
+    String funFact         = "5x SSB Repeater — persistence is my superpower 💪";
+}
 ```
 
 ---
