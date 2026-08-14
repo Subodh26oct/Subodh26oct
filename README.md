@@ -40,7 +40,7 @@
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/Open_to_SDE_Roles-00C853?style=flat-square&logo=statuspage&logoColor=white"/></td>
-<td align="center">IIIT Ranchi • ECE • Final Year • 8.19 CGPA</td>
+<td align="center">IIIT Ranchi • ECE • Final Year • 8.20 CGPA</td>
 <td align="center">Ranchi, Jharkhand 🇮🇳</td>
 <td align="center">Full Stack + AI Engineering</td>
 </tr>
@@ -53,16 +53,16 @@
 <div align="center">
 
 <a href="https://github.com/Subodh26oct">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Subodh26oct&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="47.5%" src="https://github-stats-extended.vercel.app/api?username=Subodh26oct&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Subodh26oct">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Subodh26oct&theme=github-dark-blue&border=30363d&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+  <img width="50.5%" src="https://streak-stats.demolab.com?user=Subodh26oct&theme=github-dark-blue&border=30363d&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Subodh26oct">
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subodh26oct&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=10" />
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subodh26oct&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=10" />
 </a>
 
 <br/>
@@ -82,7 +82,7 @@ public class Subodh extends Developer {
     // Bio & Education
     String college      = "IIIT Ranchi - ECE (B.Tech, 2023-2027)";
     String location     = "Ranchi, Jharkhand, India 🇮🇳";
-    float  cgpa         = 8.19f;
+    float  cgpa         = 8.20f;
     int    dsaSolved    = 500; // and counting 💪
 
     // Core Tech Stack
@@ -101,7 +101,7 @@ public class Subodh extends Developer {
     };
 
     // Metrics & System Info
-    int    livePlatforms   = 4;
+    int    livePlatforms   = 6;
     String usersServed     = "50+";
     String gfgRating       = "3-Star Coder (1635)";
     String apiIntegrations = "Stripe, Razorpay, Cloudinary, Gemini, Clerk";
@@ -277,7 +277,7 @@ public class Subodh extends Developer {
 
 <br/>
 
-<sub>🔥 Built with passion by <b>Subodh Kumar</b> &nbsp;•&nbsp; <a href="https://subodh-hp-portfolio.vercel.app/">subodh-hp-portfolio.vercel.app</a> &nbsp;•&nbsp; Last updated: June 2026</sub>
+<sub>🔥 Built with passion by <b>Subodh Kumar</b> &nbsp;•&nbsp; <a href="https://subodh-hp-portfolio.vercel.app/">subodh-hp-portfolio.vercel.app</a> &nbsp;•&nbsp; Last updated: August 2026</sub>
 
 </div>
 
