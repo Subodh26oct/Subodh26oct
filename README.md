@@ -53,7 +53,7 @@
 <div align="center">
 
 <a href="https://github.com/Subodh26oct">
-  <img width="47.5%" src="https://github-stats-extended-frontend.vercel.app/api?username=Subodh26oct&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
+  <img width="47.5%" src="https://github-stats-extended.vercel.app/api?username=Subodh26oct&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/Subodh26oct">
   <img width="50.5%" src="https://streak-stats.demolab.com?user=Subodh26oct&theme=github-dark-blue&border=30363d&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
@@ -62,7 +62,7 @@
 <br/>
 
 <a href="https://github.com/Subodh26oct">
-  <img width="40%" src="https://github-stats-extended-frontend.vercel.app/api/top-langs/?username=Subodh26oct&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=10" />
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Subodh26oct&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=false&langs_count=10" />
 </a>
 
 <br/>
