@@ -207,41 +207,45 @@ public class Subodh extends Developer {
 <td width="50%" valign="top">
 
 ### ⚡ Vibe Code Editor
-&nbsp; [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subodh26oct/vibe-code-editor)
+&nbsp; [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subodh26oct/vibe-code-editor)
+[![Stack](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/Subodh26oct/vibe-code-editor)
 
-> AI-powered Web IDE with real-time execution, AI chat & GitHub import
+> Browser-based AI Web IDE with in-browser container execution, intelligent chat & Git integration.
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,react&theme=dark&perline=4" />
 </p>
 
-| Feature | Tech |
+| Component | Technical Implementation |
 |:---|:---|
-| 🧠 AI Assist | Ollama + Local LLMs |
-| 🖊️ Editor | Monaco Editor |
-| ⚙️ Runtime | WebContainers |
-| 💻 Terminal | xterm.js |
-| 🔐 Auth | NextAuth (Google/GitHub) |
-| 🎨 UI | TailwindCSS + ShadCN |
+| 🧠 **AI Intelligence** | Ollama Local LLMs + Structured Prompting |
+| 🖊️ **Code Workspace** | Monaco Editor with LSP Syntax Engine |
+| ⚙️ **Browser Runtime** | WebContainers (In-Browser Node.js) |
+| 💻 **Interactive CLI** | xterm.js Integrated Terminal Engine |
+| 🔐 **Authentication** | NextAuth.js (OAuth via GitHub / Google) |
+| 🎨 **Design System** | TailwindCSS + Shadcn/ui Primitives |
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 Coming Soon...
-&nbsp; 🚧 In Progress
+### 🚀 Craftly
+&nbsp; [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Subodh26oct/Craftly)
+[![Backend](https://img.shields.io/badge/Spring_Boot-4.x-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://github.com/Subodh26oct/Craftly)
 
-> Spring Boot Microservices + AI SaaS
+> Enterprise AI code gen platform — real-time SSE token streaming, Qdrant vector RAG & Docker sandboxing.
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,docker,aws&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&theme=dark&perline=4" />
 </p>
 
-| Focus Area | Stack |
+| Component | Technical Implementation |
 |:---|:---|
-| ☕ Backend | Spring Boot + Security |
-| 🐳 Containers | Docker Compose |
-| ☁️ Cloud | AWS EC2 + S3 |
-| 🤖 AI Layer | LangChain + Gemini |
+| ☕ **Core Framework** | Spring Boot 4 + Java 21 (Clean Arch) |
+| ⚡ **Stream Pipeline** | Low-latency Server-Sent Events (SSE) |
+| 🗄️ **Data & Storage** | PostgreSQL 16 + MinIO S3 Object Store |
+| 🧠 **Code Retrieval** | Qdrant Vector Search Engine (RAG) |
+| 🐳 **Execution Env** | Docker Engine API Container Sandbox |
+| 💳 **Monetization** | Stripe Billing Webhooks + Rate Limiting |
 
 </td>
 </tr>
